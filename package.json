@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "antlr4": "^4.7.1",
+    "fs": "0.0.1-security",
+    "random-string": "^0.2.0",
     "unzipper": "^0.8.11"
   }
 }
